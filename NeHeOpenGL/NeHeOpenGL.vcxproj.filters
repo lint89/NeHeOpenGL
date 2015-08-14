@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NeHe\Transparent.cpp">
+    <ClCompile Include="NeHe\L17_ImageFont.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

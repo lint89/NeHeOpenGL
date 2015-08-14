@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NeHe\Transparent.cpp" />
+    <ClCompile Include="NeHe\L17_ImageFont.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{667E143D-9733-4545-AD9D-7EDFCC0157C8}</ProjectGuid>
